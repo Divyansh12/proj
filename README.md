@@ -1,6 +1,6 @@
 # Instructions:
 # The Following repository contains my class 12 project :
-# 1.Project is divided into 10 files 
+# 1.Project is divided into 11 files 
 # 2.For using the project you must have turbo c or any other compiler with graphics.h
 # 3.First check the BGI path in clo.cpp and change it according to location BGI folder on your device.
 # 4.Then copy the EVAGVA.BGI and CGA.BGI to your project location(BIN for TC)(included in repository)
